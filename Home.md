@@ -12,11 +12,11 @@ This Wiki is community-driven. [If you want to contribute](Contributing), don't 
 
 ## Topics
 
-- [Contributor Home Pages](Contributors)
-- [Shared Projects](projects)
-- [Learning](Learning)
-- [Reference Material](Reference)
-- [Cool Products](Products)
+- [Contributor Home Pages](Contributors/README.md)
+- [Shared Projects](projects/README.md)
+- [Learning](Learning/README.md)
+- [Reference Material](Reference/README.md)
+- [Cool Products](Products/README.md)
 
 ## Notice:
 These pages are currently still quite TODO-Esque, as this wiki has *just* launched. But, expect more soon.
